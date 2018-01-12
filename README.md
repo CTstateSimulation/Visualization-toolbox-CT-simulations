@@ -1,0 +1,2 @@
+# Visualization-toolbox-CT-simulations
+This tool helps to simulate trEPR spectrum of CT state. It assumes a powder - the orientation of the coupled spins in the magnetic field is random. There are many different parameters and even two different models for the simulations of trEPR spectra of a CT state. It helps to see how different parameters influence the CT spectra and therefore helps to find the best fitting parameters.
